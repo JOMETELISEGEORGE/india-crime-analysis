@@ -71,4 +71,3 @@ india-crime-analysis/
 ```
 
 ---
-Feel free to fork, star ⭐, or raise issues!
