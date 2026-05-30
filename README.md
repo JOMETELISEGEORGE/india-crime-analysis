@@ -71,8 +71,4 @@ india-crime-analysis/
 ```
 
 ---
-
-## 👤 Author
-
-**Jomet** — CSE (Data Science) student at New Horizon College of Engineering, Bangalore  
 Feel free to fork, star ⭐, or raise issues!
