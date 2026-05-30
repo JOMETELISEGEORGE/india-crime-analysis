@@ -1,16 +1,11 @@
-# 🔍 Indian Crime Data Analysis
+# Indian Crime Data Analysis
 
 An exploratory data analysis and machine learning project on crime patterns across major Indian cities, using a dataset of 40,000+ reported cases.
-
----
-
-## 📌 Overview
-
 This project analyzes crime trends, victim demographics, weapon usage, and case resolution rates across 29 Indian cities. It also builds a Random Forest classifier to predict whether a reported case will be closed.
 
 ---
 
-## 📊 Key Analyses
+## Analyses
 
 | # | Analysis |
 |---|----------|
@@ -28,7 +23,7 @@ This project analyzes crime trends, victim demographics, weapon usage, and case 
 
 ---
 
-## 🗂️ Dataset
+## Dataset
 
 - **Source:** [Kaggle — Indian Crime Dataset](https://www.kaggle.com/)
 - **Size:** 40,160 records × 14 features
@@ -37,38 +32,15 @@ This project analyzes crime trends, victim demographics, weapon usage, and case 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Python 3**
 - **pandas** — data loading and cleaning
 - **matplotlib & seaborn** — visualizations
 - **scikit-learn** — Random Forest classifier, label encoding, train/test split
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YOUR_USERNAME/india-crime-analysis.git
-   cd india-crime-analysis
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install pandas matplotlib seaborn scikit-learn
-   ```
-
-3. Place `crime_dataset_india.csv` in the same folder and run:
-   ```bash
-   python crime_analysis.py
-   ```
-
-Charts will be saved as PNG files in the same directory.
-
----
-
-## 📈 Sample Findings
+## Sample Findings
 
 - **Delhi** has the highest number of reported crimes among all cities
 - **Burglary** and **Vandalism** are the most frequently reported crime types
@@ -77,7 +49,7 @@ Charts will be saved as PNG files in the same directory.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 india-crime-analysis/
